@@ -8,7 +8,7 @@ with their solutions in Python 3.
 Under construction.
 
 ## Solutions
-You can find them in the folder `solution`.
+You can find them in the folder `solutions`.
 
 ## Teaching
 A suggestion for a sequence of questions to work with the
