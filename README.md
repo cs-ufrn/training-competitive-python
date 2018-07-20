@@ -7,9 +7,12 @@ with their solutions in Python 3.
 ## Questions
 Under construction.
 
+## Solutions
+You can find them in the folder `solution`.
+
 ## Teaching
 A suggestion for a sequence of questions to work with the
-students in a presencial class is: 
+students in a class is: 
 
 1. A
 2. C
